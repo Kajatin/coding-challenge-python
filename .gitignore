@@ -1,0 +1,5 @@
+# ignored folders and files
+__pycache__/
+*.py[cod]
+.vscode/
+env/
